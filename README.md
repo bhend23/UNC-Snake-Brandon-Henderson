@@ -1,3 +1,4 @@
 # UNC Snake Brandon Henderson
  snake project
-project i made which is the classic snake game with a UNC twist to it
+ UNC inspired custom Snake game
+Gameplay link -> https://streamable.com/jyif6m
